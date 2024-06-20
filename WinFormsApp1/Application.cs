@@ -105,7 +105,7 @@ namespace WinFormsApp1
         {
             Process.Start(new ProcessStartInfo
             {
-                FileName = "https://www.google.com",
+                FileName = "https://github.com/Asmosd/VirusTotalHelper",
                 UseShellExecute = true
             });
         }
@@ -144,7 +144,7 @@ namespace WinFormsApp1
         {
             Process.Start(new ProcessStartInfo
             {
-                FileName = "https://www.google.com",
+                FileName = "https://github.com/Asmosd/VirusTotalHelper/issues",
                 UseShellExecute = true
             });
         }
